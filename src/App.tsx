@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <h1>Muditha</h1>
+      <h1>Muditha Sasanka</h1>
       <div>
         <h2>Posts</h2>
         <ul>
