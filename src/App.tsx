@@ -17,17 +17,7 @@ function App() {
   return (
     <>
       <h1>Muditha Sasanka</h1>
-      <div>
-        <h2>Posts</h2>
-        <ul>
-          {posts.map((post: Post) => (
-            <li key={post.id}>
-              <h3>{post.title}</h3>
-              <p>{post.body}</p>
-            </li>
-          ))}
-        </ul>
-      </div>
+    
     </>
   );
 }
