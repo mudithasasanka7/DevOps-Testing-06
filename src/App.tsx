@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <h1>Muditha Sasanka</h1>
+      <h1>Muditha Sasanka Kodikara</h1>
     
     </>
   );
